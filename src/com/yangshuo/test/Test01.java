@@ -13,9 +13,7 @@ import java.util.Set;
  */
 public class Test01 {
     public static void main(String[] args) {
-        System.out.println("yangshuo");
-        System.out.println("helloworld");
-        System.out.println("nihao");
+        System.out.println("Hello My MacBook Pro!!!");
     }
 
 }
